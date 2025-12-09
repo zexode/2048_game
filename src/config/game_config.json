@@ -1,0 +1,15 @@
+{
+  "game": {
+    "title": "2048",
+    "version": "1.0",
+    "board_size": 4,
+    "target_value": 2048,
+    "initial_tiles": 2,
+    "new_tile_values": [2, 4],
+    "new_tile_probabilities": [0.9, 0.1]
+  },
+  "score": {
+    "save_best_score": true,
+    "highscore_file": "highscore.json"
+  }
+}
